@@ -1,0 +1,39 @@
+Start Time	:- 	9:15 (5min buffer)
+Break 		:	11:00 to 11:15 
+Q&A (practice)	:	12:45
+End 		:	13:15
+
+Day 1
+
+Creating Custom Themes and Layouts:
+
+Vishal guided on creating and customizing themes and layouts in PowerPoint, emphasizing the importance of having a consistent design for presentations. This includes adding multiple masters to a theme for different clients and creating a custom "Candidate Layout" for presenting candidate information efficiently.
+
+Setting Default Themes:
+
+Detailed steps were provided on setting a custom theme as the default theme in PowerPoint, ensuring that the custom theme becomes the default for new presentations.
+
+Editing Pictures:
+
+Vishal demonstrated how to edit pictures within PowerPoint, including removing backgrounds and adjusting picture settings to fit the presentation's aesthetic needs.
+
+Using Outline View:
+
+The use of the Outline View in PowerPoint was discussed as a method to quickly structure presentations, allowing for efficient organization of content before adding design elements.
+
+Action Items for Practice:
+
+Vishal assigned practice tasks to create a theme and a custom layout, emphasizing the application of the training content to ensure retention and proficiency.
+
+_________________________
+
+
+Day 2
+Plan
+-Pictures
+-Charts
+-Smart Art
+-Data
+-Hyperlinks
+-Templates
+-Infographics
